@@ -1,5 +1,4 @@
 httpx
 aiogram
 cachetools
-python-3.10
 adyen==8.0.0
