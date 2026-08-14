@@ -1,4 +1,3 @@
 httpx
 aiogram
 cachetools
-adyen==8.0.0
